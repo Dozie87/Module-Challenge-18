@@ -19,3 +19,7 @@ Which Start/End Stations has the highest average trip duration(min)?
 <img width="572" alt="Dashboard 1" src="https://github.com/Dozie87/Module-Challenge-18/assets/73558689/ab4280a8-1662-466b-9920-28fa0cd5db60">
 
 #Ans: Madison/Montgomery St and Franklin/Myrtle Ave have the higest average trp duration(min) in terms of Start and End Stations, respectively. This is highlighted on the map in terms of their locations spherical sizes 
+What are Top-Bottom(5) Start/End Stations with the most and least average trip duration?
+https://public.tableau.com/views/Module18Challenge_16843648936350/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+#Ans: From the above chat, the top(bottom) 5 Start(End) Stations are ranked accordingly.
