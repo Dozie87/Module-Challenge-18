@@ -13,3 +13,7 @@ Which Start/End Stations has the highest average trrip duration(min)?
 What are Top-Bottom(5) Start/End Stations with the most and least average trip duration?
 Which gender has the highest average trip duration?
 How are the Start/End Stations distributed according to different Ages
+
+#Analytical Insights on the Dashboards
+Which Start/End Stations has the highest average trip duration(min)?
+<img width="572" alt="Dashboard 1" src="https://github.com/Dozie87/Module-Challenge-18/assets/73558689/ab4280a8-1662-466b-9920-28fa0cd5db60">
